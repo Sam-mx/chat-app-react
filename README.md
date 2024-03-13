@@ -6,7 +6,7 @@
 
 I am testing and building this MERN STACK Project by following the instructions of this [Youtube video](https://www.youtube.com/watch?v=HwCqsOis894&t=10065s).
 
-![Demo App](https://i.ibb.co/gFSMzKN/1.png)
+![chat1](https://github.com/Sam-mx/chat-app-react/assets/146705452/c6cee5c4-0727-417e-b064-43798454ebaf)
 
 Some Features:
 
